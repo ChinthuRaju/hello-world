@@ -1,4 +1,4 @@
 # hello-world
 First Repository
-# chinthu
+ chinthu
 changes in the first repository
